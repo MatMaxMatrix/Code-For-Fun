@@ -1,0 +1,21 @@
+Genere,Nome,Cognome,Età,Email
+Male,John,Doe,30,john.doe@example.com
+Female,Jane,Smith,28,jane.smith@example.com
+male,Michael,Johnson,45,michael.j@example.com
+FEMALE,Emily,Brown,32,emily.b@example.com
+Male,John,Doe,30,john.doe@example.com
+female,Sarah,Williams,29,sarah.w@example.com
+Other,Alex,Taylor,25,alex.t@example.com
+,Chris,Martin,33,chris.m@example.com
+Non-Binary,Jordan,Lee,27,jordan.l@example.com
+M,Robert,Garcia,40,robert.g@example.com
+F,Lisa,Wilson,35,lisa.w@example.com
+Male ,David,Anderson,38,david.a@example.com
+ Female,Olivia,Thomas,26,olivia.t@example.com
+Maschio,Marco,Rossi,42,marco.r@example.com
+Femmina,Giulia,Bianchi,31,giulia.b@example.com
+Male,John,Doe,30,john.doe@example.com
+Mal,James,Clark,37,james.c@example.com
+Femal,Jessica,Moore,29,jessica.m@example.com
+"Male",William,Hill,44,william.h@example.com
+"Female",Sophia,Allen,34,sophia.a@example.com 

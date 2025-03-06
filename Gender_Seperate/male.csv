@@ -1,0 +1,5 @@
+Genere,Nome,Cognome,Età,Email
+Male,John,Doe,30,john.doe@example.com
+male,Michael,Johnson,45,michael.j@example.com
+Male ,David,Anderson,38,david.a@example.com
+Male,William,Hill,44,william.h@example.com
