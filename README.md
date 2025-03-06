@@ -9,6 +9,8 @@ This repository contains a collection of various programming projects, algorithm
 - **testing_examples/**: Contains examples of testing methodologies and frameworks.
 - **web_project/**: Contains a web application project with frontend and backend components.
 - **chivas_projects/**: Contains various projects from the Chivas collection.
+- **Gender_Seperate/**: Contains scripts for processing CSV files to separate data by gender using different approaches (CSV module, Pandas, Dask).
+- **Image detection/**: Contains image processing and detection algorithms.
 
 Each directory has its own README file with more detailed information about its contents.
 
