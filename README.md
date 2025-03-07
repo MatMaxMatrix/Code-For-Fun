@@ -1,4 +1,4 @@
-# Outlier Project Collection
+# Project Collection
 
 This repository contains a collection of various programming projects, algorithms, and code examples organized into logical categories.
 
