@@ -1,0 +1,4 @@
+pillow>=9.0.0
+openai>=1.0.0
+# Optional: uncomment the following line to enable drag & drop support
+# tkinterdnd2>=0.3.0 

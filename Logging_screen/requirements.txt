@@ -1,0 +1,9 @@
+# Dipendenze di base
+logging==0.4.9.6
+schedule==1.2.0
+
+# Dipendenze per la crittografia
+cryptography==41.0.3
+
+# Dipendenze per l'esportazione
+pandas==2.0.3 

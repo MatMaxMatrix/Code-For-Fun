@@ -46,4 +46,4 @@ def process_genders(csv_file: str, genders_to_count: list[str]) -> None:
 
 if __name__ == "__main__":
     # Use our test data
-    process_genders(csv_file="test_data.csv", genders_to_count=["Male", "Female"]) 
+    process_genders(csv_file="employees.csv", genders_to_count=["Male", "Female"]) 

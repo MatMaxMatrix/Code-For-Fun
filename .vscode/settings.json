@@ -1,0 +1,5 @@
+{
+    "python.defaultInterpreterPath": "/opt/anaconda3/envs/new_env/bin/python",
+    "python.terminal.activateEnvironment": true,
+    "python.condaPath": "conda"
+} 
